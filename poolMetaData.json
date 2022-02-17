@@ -1,6 +1,6 @@
 {
-"name": "ASH Pool",
-"description": "A Small Helpful Pool",
-"ticker": "ASH",
-"homepage": "www.AshPool.io"
+"name": "Lottery Pool",
+"description": "100% Lottery Pool. All rewards each Epoch sent to one delegator from a random draw.",
+"ticker": "LOTTO",
+"homepage": "https://twitter.com/pjsstator"
 }
