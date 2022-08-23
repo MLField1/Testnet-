@@ -1,6 +1,6 @@
 {
 "name": "Lottery Pool",
-"description": "100% Lottery Pool. All rewards each Epoch sent to one delegator from a random draw.",
+"description": "Building open-source lottery solutions for Cardano and Ergo",
 "ticker": "LOTTO",
-"homepage": "https://twitter.com/pjsstator"
+"homepage": "https://twitter.com/LottoLabs"
 }
